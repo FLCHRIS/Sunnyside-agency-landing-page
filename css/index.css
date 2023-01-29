@@ -34,6 +34,7 @@ body::-webkit-scrollbar-thumb{
 .container {
     max-width: 1600px;
     margin: 0 auto;
+    overflow: hidden;
 }
 /* ### HEADER ### */
 .header {
@@ -273,7 +274,7 @@ body::-webkit-scrollbar-thumb{
 /* ### FOOTER ### */
 .footer {
     background-color: var(--DarkModerateCyan);
-    padding: 3em 1em;
+    padding: 3.5em 1em;
     position: relative;
 }
 .footer-logo {
@@ -338,6 +339,7 @@ body::-webkit-scrollbar-thumb{
     /* ### HEADER ### */
     .header {
         background-image: url('../images/desktop/image-header.jpg');
+        height: 600px;
     }
     .header__nav {
         width: 95%;

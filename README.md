@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://beamish-elf-40089e.netlify.app/)
 
 ## My process
 
@@ -40,6 +40,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflowframework
 - AOS
+- BEM
 - Fontawesome
 
 ## Author
